@@ -1,0 +1,6 @@
+*.exe
+build/
+.env
+*.csv
+sql/full_dump (1).sql/
+sql/full_dump (1).sql/
